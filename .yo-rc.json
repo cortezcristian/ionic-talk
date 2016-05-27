@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Ionic Framework",
+    "packageVersion": "0.0.0",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "cortezcristian",
+    "githubRepository": "ionic-talk"
+  }
+}
