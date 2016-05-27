@@ -27,4 +27,6 @@ Connecting with wordpress / Meteoric
 
 Ionic Market / Ionic Creator
 
+Ionic Generator / Ionic Box
+
 [Slides Original](http://ionicframework.com/present-ionic/slides/#/)
