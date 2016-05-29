@@ -1,6 +1,9 @@
 [
     "ionic-framework.html",
     "speaker.html",
-    "new-technologies.html",
+    [
+        "new-technologies.html",
+        "cordova.html"
+    ],
     "final.html"
 ]
