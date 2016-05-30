@@ -15,8 +15,13 @@
     [
         "ionic-as-market-solution.html"
     ],
+    [
+        "ionic-rapid-prototyping.html"
+    ],
+    [
+        "ionic-tools.html",
+        "ionic-box.html"
+    ],
     "final.html",
-    "ionic-tools.html",
-    "ionic-framework.html",
-    "ionic-box.html"
+    "ionic-framework.html"
 ]
