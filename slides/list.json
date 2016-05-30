@@ -12,8 +12,11 @@
         "sass.html",
         "bower.html"
     ],
+    [
+        "ionic-as-market-solution.html"
+    ],
     "final.html",
-    "ionic-as-market-solution.html",
     "ionic-tools.html",
-    "ionic-framework.html"
+    "ionic-framework.html",
+    "ionic-box.html"
 ]
