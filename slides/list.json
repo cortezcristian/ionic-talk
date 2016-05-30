@@ -13,10 +13,18 @@
         "bower.html"
     ],
     [
-        "ionic-as-market-solution.html"
+        "ionic-as-market-solution.html",
+        "stack-overflow-survey-2016.html",
+        "stack-overflow-survey-2015.html",
+        "stack-overflow-survey-results.html",
+        "developer-occupations.html"
     ],
     [
-        "ionic-rapid-prototyping.html"
+        "ionic-rapid-prototyping.html",
+        "ionic-client.html"
+    ],
+    [
+        "sharing-and-publishing.html"
     ],
     [
         "ionic-tools.html",
