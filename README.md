@@ -1,4 +1,16 @@
 # ionic-talk
+
+1. Ionic & New Technologies
+2. Hybrid as a Market Solution
+3. Ionic Rapid Prototyping
+4. Real Cases & Ionic Market
+5. Development Tools
+6. Sharing & Publishing
+7. Tests & Continuous Deployment
+8. Ionic 2
+9. Extra Resources (Book)
+
+
 Talk on Ionic Framework
 
 ¿Qué es Ionic Framework?
@@ -41,6 +53,8 @@ Ionic Generator / Ionic Box
 - [Continuously deploy your ionic app using Circle CI](http://jasonbrown.io/continuously-deploy-your-ionic-app-using-circle-ci/)
 - [Angular is a Design Pattern](http://blog.ionic.io/angular-is-a-design-pattern/)
 - [Ionic Framework 2 Beta](http://blog.ionic.io/announcing-ionic-framework-2-beta/)
+- [Ionic Material](http://ionicmaterial.com/)
+- [Learn Ionic](http://learn.ionicframework.com/)
 
 10 Things I Learned from Ionic
 

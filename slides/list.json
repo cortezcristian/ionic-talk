@@ -2,8 +2,18 @@
     "ionic-framework.html",
     "speaker.html",
     [
+        "ionic-framework-doc.html",
         "new-technologies.html",
-        "cordova.html"
+        "cordova.html",
+        "angularjs.html",
+        "gulpjs.html",
+        "nodejs.html",
+        "html5.html",
+        "sass.html",
+        "bower.html"
     ],
-    "final.html"
+    "final.html",
+    "ionic-as-market-solution.html",
+    "ionic-tools.html",
+    "ionic-framework.html"
 ]
