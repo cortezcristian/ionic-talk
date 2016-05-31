@@ -37,10 +37,10 @@
         "sharing-and-publishing.html",
         "ionic-view.html",
         "ionic-upload.html",
-        "continuous-deployment.html"
-    ],
-    [
+        "publish-android-market.html",
         "ionic-tools.html",
+        "continuous-deployment.html",
+        "generator-ionic.html",
         "ionic-box.html"
     ],
     "final.html"
