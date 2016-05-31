@@ -36,7 +36,8 @@
     [
         "sharing-and-publishing.html",
         "ionic-view.html",
-        "ionic-upload.html"
+        "ionic-upload.html",
+        "continuous-deployment.html"
     ],
     [
         "ionic-tools.html",
