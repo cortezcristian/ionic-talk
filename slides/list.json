@@ -26,7 +26,10 @@
         "ionic-client.html",
         "ionic-up-and-running.html",
         "ionic-my-map-demo.html",
-        "ionic-leaftlet-running.html"
+        "ionic-leaftlet-running.html",
+        "ionic-cordova-plugin.html",
+        "ionic-emulate-map-ios.html",
+        "ionic-market-search.html"
     ],
     [
         "sharing-and-publishing.html"
