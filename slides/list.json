@@ -1,6 +1,9 @@
 [
     "ionic-framework.html",
-    "speaker.html",
+    [
+        "speaker.html",
+        "all-phones.html"
+    ],
     [
         "ionic-framework-doc.html",
         "new-technologies.html",
@@ -42,6 +45,12 @@
         "continuous-deployment.html",
         "generator-ionic.html",
         "ionic-box.html"
+    ],
+    [
+        "ionic-2.html",
+        "why-ionic-2.html",
+        "angular-2.html",
+        "typescript-es6.html"
     ],
     "final.html"
 ]
