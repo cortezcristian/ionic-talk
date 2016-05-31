@@ -25,19 +25,21 @@
         "ionic-rapid-prototyping.html",
         "ionic-client.html",
         "ionic-up-and-running.html",
+        "ionic-components.html",
         "ionic-my-map-demo.html",
         "ionic-leaftlet-running.html",
         "ionic-cordova-plugin.html",
         "ionic-emulate-map-ios.html",
+        "ionic-material.html",
         "ionic-market-search.html"
     ],
     [
-        "sharing-and-publishing.html"
+        "sharing-and-publishing.html",
+        "ionic-view.html"
     ],
     [
         "ionic-tools.html",
         "ionic-box.html"
     ],
-    "final.html",
-    "ionic-framework.html"
+    "final.html"
 ]
