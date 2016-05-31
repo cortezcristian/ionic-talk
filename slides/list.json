@@ -23,7 +23,10 @@
     ],
     [
         "ionic-rapid-prototyping.html",
-        "ionic-client.html"
+        "ionic-client.html",
+        "ionic-up-and-running.html",
+        "ionic-my-map-demo.html",
+        "ionic-leaftlet-running.html"
     ],
     [
         "sharing-and-publishing.html"
